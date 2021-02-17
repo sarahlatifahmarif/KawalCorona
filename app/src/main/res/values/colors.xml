@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#EDF3FF</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorAccentTrans">#4DD81B60</color>
+    <color name="blue_btn">#3800FF</color>
+    <color name="red">#CB5942</color>
+    <color name="red_card">#80CB5942</color>
+    <color name="red_trans">#4DCB5942</color>
+    <color name="black">#2D364A</color>
+    <color name="blue">#447DFA</color>
+    <color name="blueTrans">#3D447DFA</color>
+    <color name="green">#74ADA2</color>
+    <color name="green_trans">#4D74ADA2</color>
+    <color name="yellow_trans">#4DBE8C51</color>
+    <color name="yellow">#BE8C51</color>
+    <color name="semi_red">#80E88875</color>
+    <color name="white">#FFFFFF</color>
+</resources>
